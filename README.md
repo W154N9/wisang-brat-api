@@ -1,5 +1,6 @@
-# Wisang BRAT API
-// =============================================
-//   WISANG BRAT API v1.0 - Super Clean Edition
-//   Author: Wisang | All in one, no bloat
-// =============================================
+# Wisang BRAT API  
+**Generate BRAT Sticker dari Teks — Real-time, Fast, No Bloat**
+
+> **Fungsi Utama**:  
+> **Input teks → Output gambar BRAT (sticker) dalam format base64**  
+> **Dirancang khusus untuk BOT WHATSAPP**
