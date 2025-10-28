@@ -1,21 +1,16 @@
 {
-  "name": "wisang-brat-api",
-  "version": "1.0.0",
-  "description": "Wisang BRAT API - Super Clean Edition | Author: Wisang",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2",
-    "cors": "^2.8.5",
-    "express-rate-limit": "^6.8.0",
-    "playwright": "^1.40.0",
-    "dotenv": "^16.0.3"
-  },
-  "engines": {
-    "node": ">=18"
-  },
-  "author": "Wisang (https://github.com/W154N9)",
-  "license": "AGPL-3.0"
+  "author": "Wisang",
+  "repository": { "github": "https://github.com/W154N9/wisang-brat-api" },
+  "powered_by": "Wisang BRAT API",
+  "hit": 1,
+  "message": "Stiker berhasil dibuat!",
+  "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...",
+  "runtime": {
+    "os": "Linux",
+    "platform": "linux",
+    "architecture": "x64",
+    "cpuCount": 16,
+    "uptime": "1234.5 seconds",
+    "memoryUsage": "113353 MB used of 126761 MB"
+  }
 }
